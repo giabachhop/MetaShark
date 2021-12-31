@@ -1,0 +1,258 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 27 Dec 2021 16:02:35 at https://metashark.space/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+metashark.space
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://metashark.space/ -O1 "E:\MTS\MTS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, mmetashark.spacee information,metashark.space
+metashark.spacemetashark.space
+	such as username/password authentication for websimetashark.spaces projectmetashark.space
+metashark.spacemetashark.space
+	do not share these files/folders if you want thesemetashark.spaceain privatemetashark.space
+metashark.spacemetashark.space
+metashark.spacemetashark.space
+metashark.spacemetashark.space
+16:02:49	Error: 	"Not Found" (404) at link https://metashark.space/img/cicrlelogo.png (from https://tradinggrometashark.space
+metashark.spacemetashark.space
+16:03:14	Error: 	"Not Found" (404) at link https://metashark.space/img/images/footer_fire.png (from https:metashark.spaceom/)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-brands-400.eot (from https:/metashark.spacem/css/fontawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-brands-400d41d.eot (from httpmetashark.space.com/css/fontawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-brands-400.woff (from https:metashark.spaceom/css/fontawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-brands-400.ttf (from https://tradinggrowcmetashark.spacesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-brands-400.svg (from https://tradinmetashark.spaceontawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-regular-400.eot (from https://trametashark.spaces/fontawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-regular-400d41d.eot (from https:/metashark.spacem/css/fontawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-regular-400.woff (from https:/metashark.spacem/css/fontawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-regular-400.ttf (from https://trmetashark.spacess/fontawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-regular-400.svg (from https://trmetashark.spacess/fontawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-solid-900.eot (from https://tradinggrmetashark.spaceawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-solid-900d41d.eot (from httmetashark.spacen.com/css/fontawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-solid-900.woff (from httpsmetashark.spacecom/css/fontawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-solid-900.ttf (from https://trmetashark.spacess/fontawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/fa-solid-900.svg (from https://tradimetashark.spacefontawesome-all.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/css/owl.video.play.html (from httpmetashark.space.com/css/owl.carousel.min.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/fonts/grind_demolished-webfont.woff (from https:/metashark.spacem/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/images/btn_overlay.png (from https://tmetashark.spacecss/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/images/offer_count_bg.png (from httpsmetashark.spacecom/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/header_bg.jpg (from https://tradinmetashark.spacetyle.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/header_social_bg.jpg (from https:/metashark.spacem/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/h3_header_bg.jpg (from https://trametashark.spaces/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/header_bottom_bg.png (from httmetashark.spacen.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/fourth_header_top_bg.jpg (frommetashark.spacewcoin.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/breadcrumb_bg.jpg (from https:metashark.spaceom/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/breadcrumb_bg02.jpg (from htmetashark.spacein.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/breadcrumb_bg03.jpg (from https://tradmetashark.space/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/slider/slider_bg.jpg (from https:/metashark.spacem/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/slider/slider_bg02.jpg (from https://trametashark.spaces/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/slider/third_banner_bg.jpg (from httmetashark.spacen.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/slider/fourth_banner_bg.jpg (from https:metashark.spaceom/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/brand_bg.jpg (from https://tradinmetashark.spacetyle.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/s_brand_bg.jpg (from https://tradinggrometashark.space.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/area_bg01.jpg metashark.spacenggrowcoin.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/area_bg02.jpg metashark.spacenggrowcoin.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/home_four_areametashark.space://metashark.space/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/images/title_bar.pnmetashark.spacedinggrowcoin.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/images/title_bar02.metashark.spaceradinggrowcoin.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/images/section_line.png (fmetashark.spacegrowcoin.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/images/title_bar04.png (frommetashark.spacewcoin.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/images/dots.pnmetashark.spacedinggrowcoin.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/released_slide_bg.jpg (metashark.spaceggrowcoin.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/images/released_game_brush.png metashark.spacenggrowcoin.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/game_manage_bmetashark.space/metashark.space/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/featured_game_bg.png (frommetashark.spacewcoin.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/cta_bg.jpg (from https:metashark.spaceom/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/latest_match_bg.jpg (from httpsmetashark.spacecom/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/third_team_bg.jpg (from https://trmetashark.spacess/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/team_content_bg.png (from https://tmetashark.spacecss/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/team_content_hover_bg.png (from httpmetashark.space.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/game_gallermetashark.spaces://metashark.space/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/just_gamer_bg.jpg (from https://tradinggmetashark.spacele.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/images/title_bar03.pmetashark.spaceadinggrowcoin.com/css/style.css)
+metashark.spacemetashark.space
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/gamer_list_icon_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/features_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/home_four_shop_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/upc_game_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/donation_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/my_match_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/third_contact_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/footer_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/t_footer_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/slider/fifth_banner_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/streaming_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/h5_footer_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/slider/magazine_banner_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/slider/shop_slider_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/images/s_section_line.png (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/makes_chair_bg.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/images/mgc_bg_conve01.png (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/images/mgc_bg_conve02.png (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/images/chair_discount_shape.png (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/streaming_bg02.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/img/bg/latest_game_news.jpg (from https://metashark.space/css/style.css)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/www.googletagmanager.com/gtm.js (from https://metashark.space/gtag/js_id_g-ewts6dqrpj.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/c (from https://metashark.space/gtag/js_id_g-ewts6dqrpj.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/embed/ (from https://metashark.space/gtag/js_id_g-ewts6dqrpj.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/bn.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/des.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/md5.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/sha.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/hash.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/array.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/jsonrpc.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/batch.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/givenProvider.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/subscription.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/extend.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/getNetworkType.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/POST (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/url (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/utils.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/soliditySha3.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/usr/local/lib/node_modules/browserify/node_modules/is-buffer/index.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/lib/ensure-header.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/lib/request.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/util/ (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/is-buffer/index.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/lib/_stream_duplex.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/string_decoder/ (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/lib/_stream_readable.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/lib/_stream_writable.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/lib/_stream_transform.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/lib/_stream_passthrough.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/readable-stream/readable.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/readable-stream/writable.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/readable-stream/duplex.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/readable-stream/transform.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/readable-stream/passthrough.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/GET (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/lib/internal/streams/end-of-stream.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/lib/internal/streams/pipeline.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/process/browser.js (from https://metashark.space/web3.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/popper.js (from https://metashark.space/js/bootstrap.min.js)
+
+16:03:30	Error: 	"Not Found" (404) at link https://metashark.space/dist/ (from https://metashark.space/js/aos.js)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 55 seconds : 166 links scanned, 47 files written (3558740 bytes overall) [1539876 bytes received at 27997 bytes/sec], 3302095 bytes transferred using HTTP compression in 156 files, ratio 28%, 18.4 requests per connection
+
+(118 errors, 0 warnings, 0 messages)
+
